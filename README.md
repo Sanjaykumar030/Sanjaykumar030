@@ -14,10 +14,17 @@
 
 ### 🧪 Projects
 
-Here are some things I’m building or have built:
+Here are a few projects I’ve built:
 
-- ⚙️ **[DiffEqn Solver](#)** – Solves roots, auxiliary equations, and complementary functions for differential equations (up to order 6).  
-- 📊 **[Fermi-Dirac Probability Visualizer](#)** – Interactive Python tool to visualize Fermi-Dirac probability in semiconductors. Shows bandgap, Fermi level, and occupation probability by temperature and material type. Built with Matplotlib, NumPy, and Jupyter.
+- ⚙️ **[Differential Equation Solver](https://github.com/Sanjaykumar030/DiffEqnSolver)**  
+  Solves linear differential equations up to 6th order. Handles auxiliary equations, roots (real, complex, and repeated), and computes complementary functions. Built with Python (SymPy + Tkinter GUI).
+
+- 📊 **[Fermi-Dirac Probability Visualizer](https://github.com/Sanjaykumar030/Fermi-Dirac-Probability-Visualizer)**  
+  An interactive Python tool that visualizes Fermi-Dirac distribution in semiconductors. It plots occupation probability vs energy levels based on temperature and band structure. Developed using Matplotlib, NumPy, and Jupyter Notebook.
+
+- 🏠 **[Chennai Housing Price Predictor](https://github.com/Sanjaykumar030/Chennai-Housing-Model)**  
+  Machine learning project using XGBoost to predict real estate prices in Chennai based on features like size, amenities, and locality. Achieved 0.99 R² score on test data.
+
 
 > 📌 More in my GitHub repositories!
 
