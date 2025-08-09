@@ -23,12 +23,14 @@
 
 ---
 
+
 ### 🚀 Featured Projects
 
 | Project | Description |
-|--------|-------------|
-| 🎨 [**Stock Log (CS50P Final Project)**](https://github.com/Sanjaykumar030/CS50P-FinalProject)) | Python CLI app to manage stock transactions with CSV persistence and unit tests. |
-| 🧮 [**Differential Equation Solver**](https://github.com/Sanjaykumar030/DiffEqnSolver)) | GUI tool to solve high-order ODEs using SymPy and Tkinter. |
+|---------|-------------|
+| 🧠 [**Dopamine-Stimuli-Predictive-Model**](https://github.com/Sanjaykumar030/Dopamine-Stimuli-Predictive-Model) | ML pipeline predicting dopamine-triggering patterns in children's YouTube videos using RandomForest, XGBoost, CatBoost, and SHAP interpretability. |
+| 🎨 [**Stock Log (CS50P Final Project)**](https://github.com/Sanjaykumar030/CS50P-FinalProject) | Python CLI app to manage stock transactions with CSV persistence and unit tests. |
+| 🧮 [**Differential Equation Solver**](https://github.com/Sanjaykumar030/DiffEqnSolver) | GUI tool to solve high-order ODEs using SymPy and Tkinter. |
 | ⚛️ [**Fermi-Dirac Probability Visualizer**](https://github.com/Sanjaykumar030/Fermi-Dirac-Probability-Visualizer) | Visualizes Fermi-Dirac distribution in semiconductors using scientific plotting. |
 | 🏘️ [**Chennai Housing Price Predictor**](https://github.com/Sanjaykumar030/Chennai-Housing-Model) | ML model with XGBoost for predicting housing prices based on real data. |
 
@@ -71,6 +73,6 @@
 - 📧 Email: [sksanjaykumar010307@gmail.com](mailto:sksanjaykumar010307@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/sanjay-kumar-sakamuri-kamalakar-a67148214](https://linkedin.com/in/sanjay-kumar-sakamuri-kamalakar-a67148214)
 - 🧪 ORCID: [0009-0009-1021-2297](https://orcid.org/0009-0009-1021-2297)
-- 🌐 Portfolio: *(coming soon)*
+
 
 
