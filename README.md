@@ -13,13 +13,11 @@
 
 - 🎓 **BTech in Computer Science and Engineering**  
   Currently pursuing my undergraduate degree at **SRM Institute of Science and Technology** (SRMIST), India  
-- 🏛️ **IEEE Student Member** | **Computer Society Member**
 - 🤖 Passionate about **Machine Learning**, **AI Systems**, and **Computational Thinking**
 - 🧠 Currently focused on:
   - ML model interpretability
   - Human-centered computing
   - Scientific computing with Python
-- ✨ Actively building personal, academic, and research-based projects to bridge theory and application
 
 ---
 
