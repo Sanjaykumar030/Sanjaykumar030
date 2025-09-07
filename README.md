@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sanjay Kumar</h1>
-<h3 align="center">📌 Computer Science Undergraduate | 🤖 Machine Learning Enthusiast | 🧪 Research-Inspired Developer</h3>
+<h1 align="center">Hi, I'm Sanjay Kumar </h1>
+<h3 align="center">Computer Science Undergraduate | Machine Learning & AI Researcher</h3>
 
 ---
 
@@ -9,68 +9,61 @@
 
 ---
 
-### 🔍 About Me
+## About Me
 
-- 🎓 **BTech in Computer Science and Engineering**  
-  Currently pursuing my undergraduate degree at **SRM Institute of Science and Technology** (SRMIST), India  
-- 🤖 Passionate about **Machine Learning**, **AI Systems**, and **Computational Thinking**
-- 🧠 Currently focused on:
+- **BTech in Computer Science and Engineering**  
+  Currently pursuing my undergraduate degree at **SRM Institute of Science and Technology (SRMIST), India**  
+- Interested in **Machine Learning, AI Systems, and Human-Centered Computing**
+- Focus areas include:
   - ML model interpretability
-  - Human-centered computing
   - Scientific computing with Python
+  - AI safety and ethics
 
 ---
 
-
-### 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🧠 [**Dopamine-Stimuli-Predictive-Model**](https://github.com/Sanjaykumar030/Dopamine-Stimuli-Predictive-Model) | ML pipeline predicting dopamine-triggering patterns in children's YouTube videos using RandomForest, XGBoost, CatBoost, and SHAP interpretability. |
-| 🎨 [**Stock Log (CS50P Final Project)**](https://github.com/Sanjaykumar030/CS50P-FinalProject) | Python CLI app to manage stock transactions with CSV persistence and unit tests. |
-| 🧮 [**Differential Equation Solver**](https://github.com/Sanjaykumar030/DiffEqnSolver) | GUI tool to solve high-order ODEs using SymPy and Tkinter. |
-| ⚛️ [**Fermi-Dirac Probability Visualizer**](https://github.com/Sanjaykumar030/Fermi-Dirac-Probability-Visualizer) | Visualizes Fermi-Dirac distribution in semiconductors using scientific plotting. |
-| 🏘️ [**Chennai Housing Price Predictor**](https://github.com/Sanjaykumar030/Chennai-Housing-Model) | ML model with XGBoost for predicting housing prices based on real data. |
+| [**Dopamine-Stimuli-Predictive-Model**](https://github.com/Sanjaykumar030/Dopamine-Stimuli-Predictive-Model) | Machine learning pipeline predicting dopamine-triggering patterns in children's YouTube videos, using RandomForest, XGBoost, CatBoost, and SHAP for interpretability. |
+| [**Stock Log (CS50P Final Project)**](https://github.com/Sanjaykumar030/CS50P-FinalProject) | Python CLI application for managing stock transactions with CSV persistence and unit tests. |
+| [**Differential Equation Solver**](https://github.com/Sanjaykumar030/DiffEqnSolver) | GUI-based tool to solve higher-order ODEs using SymPy and Tkinter. |
+| [**Fermi-Dirac Probability Visualizer**](https://github.com/Sanjaykumar030/Fermi-Dirac-Probability-Visualizer) | Visualization of Fermi-Dirac distribution in semiconductors using scientific plotting. |
+| [**Chennai Housing Price Predictor**](https://github.com/Sanjaykumar030/Chennai-Housing-Model) | XGBoost-based model for predicting housing prices from real-world Chennai dataset. |
 
-
-> 📌 Check out more in my pinned repositories!
-
----
-
-### 🧰 Tech Stack
-
-#### 💻 Programming Languages
-- Python, C++, C
-
-#### 🔬 ML / Data Science
-- pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow (basic)
-
-#### 🧪 Tools & Frameworks
-- Git, GitHub, Jupyter Notebook, VS Code
-
-#### 📁 Others
-- SymPy, Tabulate, CSV I/O, pytest, tkinter, cowsay 😄
+> Additional repositories are available in my pinned projects.
 
 ---
 
-### 📄 Academic Highlights
+## Technical Skills
 
-- 📘 **Completed Courses**:
-  - CS50’s Introduction to Programming with Python (CS50P)
-  - Machine Learning Specialization by Andrew Ng
-- 📊 **Research Interests**:
-  - AI Safety & Ethics
-  - Dopaminergic Patterns in Digital Media
-  - Visual Cognitive Processing in Educational Content
-- 📚 [Published on Zenodo](https://zenodo.org/records/15593205)
+- **Programming Languages**: Python, C++, C  
+- **ML / Data Science**: NumPy, pandas, Matplotlib, Scikit-learn, TensorFlow (basic)  
+- **Tools & Frameworks**: Git, GitHub, Jupyter Notebook, VS Code  
+- **Scientific & Utility**: SymPy, pytest, tkinter  
 
 ---
 
-### 📬 Let's Connect
+## Academic Highlights
 
-- 📧 Email: [sksanjaykumar010307@gmail.com](mailto:sksanjaykumar010307@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/sanjay-kumar-sakamuri-kamalakar-a67148214](https://linkedin.com/in/sanjay-kumar-sakamuri-kamalakar-a67148214)
-- 🧪 ORCID: [0009-0009-1021-2297](https://orcid.org/0009-0009-1021-2297)
-- 🌐 Website: [https://sanjaykumar030.github.io/](https://sanjaykumar030.github.io/)
+- **Completed Courses**  
+  - CS50’s Introduction to Programming with Python (Harvard Online)  
+  - Machine Learning Specialization (Andrew Ng, Stanford Online / DeepLearning.AI)  
 
+- **Research Interests**  
+  - AI Safety and Ethics  
+  - Dopaminergic Patterns in Digital Media  
+  - Visual Cognitive Processing in Educational Content  
 
+- **Publications**  
+  - [Fermi-Dirac Probability Visualizer (Zenodo)](https://zenodo.org/records/15593205)
+  - [Dopamine-YouTube-Kids-Dataset (Zenodo - Dataset)](https://zenodo.org/records/16755363)
+
+---
+
+## Connect
+
+- **Email**: [sksanjaykumar010307@gmail.com](mailto:sksanjaykumar010307@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/sanjay-kumar-sakamuri-kamalakar-a67148214](https://linkedin.com/in/sanjay-kumar-sakamuri-kamalakar-a67148214)  
+- **ORCID**: [0009-0009-1021-2297](https://orcid.org/0009-0009-1021-2297)  
+- **Website**: [sanjaykumar030.github.io](https://sanjaykumar030.github.io/)  
