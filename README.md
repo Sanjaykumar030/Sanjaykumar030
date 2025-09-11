@@ -1,13 +1,8 @@
 <h1 align="center">Hi, I'm Sanjay Kumar </h1>
-<h3 align="center">Computer Science Undergraduate | Machine Learning & AI Researcher</h3>
+<h3 align="center">Computer Science Undergraduate | Research in Machine Learning & Human–AI Interaction</h3>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sanjaykumar030&label=Profile%20views&color=0e75b6&style=flat" alt="Sanjaykumar030" />
-</p>
-
----
 
 ## About Me
 
