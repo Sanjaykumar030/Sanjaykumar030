@@ -58,7 +58,7 @@
 
 ## Connect
 
-- **Email**: [sksanjaykumar010307@gmail.com](mailto:sksanjaykumar010307@gmail.com)  
+- **Email**: [ss5579@srmist.edu.in](mailto:sksanjaykumar010307@gmail.com)  
 - **LinkedIn**: [linkedin.com/in/sanjay-kumar-sakamuri-kamalakar-a67148214](https://linkedin.com/in/sanjay-kumar-sakamuri-kamalakar-a67148214)  
 - **ORCID**: [0009-0009-1021-2297](https://orcid.org/0009-0009-1021-2297)  
 - **Website**: [sanjaykumar030.github.io](https://sanjaykumar030.github.io/)  
