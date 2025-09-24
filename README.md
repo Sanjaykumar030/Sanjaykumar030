@@ -20,7 +20,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**Dopamine-Stimuli-Predictive-Model**](https://github.com/Sanjaykumar030/Dopamine-Stimuli-Predictive-Model) | Machine learning pipeline predicting dopamine-triggering patterns in children's YouTube videos, using RandomForest, XGBoost, CatBoost, and SHAP for interpretability. |
+|  |
 | [**Stock Log (CS50P Final Project)**](https://github.com/Sanjaykumar030/CS50P-FinalProject) | Python CLI application for managing stock transactions with CSV persistence and unit tests. |
 | [**Differential Equation Solver**](https://github.com/Sanjaykumar030/DiffEqnSolver) | GUI-based tool to solve higher-order ODEs using SymPy and Tkinter. |
 | [**Fermi-Dirac Probability Visualizer**](https://github.com/Sanjaykumar030/Fermi-Dirac-Probability-Visualizer) | Visualization of Fermi-Dirac distribution in semiconductors using scientific plotting. |
